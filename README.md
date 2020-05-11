@@ -1,4 +1,4 @@
-# MedicalReportManagement
+# Medical Report Management
 Managing Medical Reports
 
 # Journey Map
